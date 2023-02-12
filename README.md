@@ -45,7 +45,6 @@ class Ivan extends Developer {
         <img src="https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454"/>&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>&nbsp;&nbsp;
         <img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white"/>&nbsp;&nbsp;
-        </br>
         <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>&nbsp;&nbsp;
        </td>
     </tr>
