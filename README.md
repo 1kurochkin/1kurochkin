@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D5616AQGhRilq3ETang/profile-displaybackgroundimage-shrink_350_1400/0/1676321847036?e=1681948800&v=beta&t=Y6QlXPbBBUrotWMAGuCtcxmiT74HYNvk7DQcrvhcEHU" height="250px" width="100%" />
+<img src="https://media.licdn.com/dms/image/D5616AQGhRilq3ETang/profile-displaybackgroundimage-shrink_350_1400/0/1676321847036?e=1681948800&v=beta&t=Y6QlXPbBBUrotWMAGuCtcxmiT74HYNvk7DQcrvhcEHU" width="100%" />
 
 <div>
   <h1 align="center"> 👾 Ivan Kurochkin 👾</h1>
