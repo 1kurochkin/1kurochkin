@@ -1,4 +1,4 @@
-<img src="https://media1.giphy.com/media/2tTiCSfEEP5QS5TjGr/giphy.gif?cid=790b76113e4a476624aa4034112d3f49738305dbcc62674c&rid=giphy.gif&ct=g" height="300px" width="100%" />
+<img src="https://media.licdn.com/dms/image/D5616AQGhRilq3ETang/profile-displaybackgroundimage-shrink_350_1400/0/1676321847036?e=1681948800&v=beta&t=Y6QlXPbBBUrotWMAGuCtcxmiT74HYNvk7DQcrvhcEHU" height="250px" width="100%" />
 
 <div>
   <h1 align="center"> 👾 Ivan Kurochkin 👾</h1>
