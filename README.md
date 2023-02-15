@@ -14,8 +14,8 @@
 class Ivan extends Developer {  
     getAbout() {
       return (
-        "Full Stack JavaScript Developer with 2.5 years of experience in creating web, mobile, and server applications 
-         adapted to the client in the Saas industry."
+        "Full Stack JavaScript Developer with 2.5 years of experience in creating massive and scalable web, mobile,
+        and server applications adapted for clients in the Saas industry."
       );
     }
 }
