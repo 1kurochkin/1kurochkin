@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D5616AQGhRilq3ETang/profile-displaybackgroundimage-shrink_350_1400/0/1676321847036?e=1681948800&v=beta&t=Y6QlXPbBBUrotWMAGuCtcxmiT74HYNvk7DQcrvhcEHU" width="100%" />
+<img src="https://media.licdn.com/dms/image/D4E16AQEiQwNy3OruOA/profile-displaybackgroundimage-shrink_350_1400/0/1676564206657?e=1681948800&v=beta&t=_ajsRP9aWO4T5bTIINw0wn_3wPdj1hY_d0VjRpH06cY" width="100%" />
 
 <div>
   <h1 align="center"> 👾 Ivan Kurochkin 👾</h1>
@@ -14,7 +14,7 @@
 class Ivan extends Developer {  
     getAbout() {
       return (
-        "Full Stack JavaScript Developer with 2.5 years of experience in creating massive and scalable web, mobile,
+        "Full Stack JavaScript Developer with 3 years of experience in creating massive and scalable web, mobile,
         and server applications adapted for clients in the Saas industry."
       );
     }
