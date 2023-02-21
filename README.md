@@ -1,7 +1,7 @@
 <img src="https://media.licdn.com/dms/image/D4E16AQHSUUM1HjHkbQ/profile-displaybackgroundimage-shrink_350_1400/0/1676997968273?e=1682553600&v=beta&t=OlX1MVCr-xXocj1inoINrz-0fFM8PTg9bu4OkHWSxoA" width="100%" />
 
 <div>
-  <h1 align="center">Ivan Kurochkin ⚡ React Frontend Developer</h1>
+  <h1 align="center">Ivan Kurochkin ⚡ Full Stack Developer</h1>
   <p align="center">
     <a href="https://ikurochkin.com" target="_blank" rel="noreferrer"><img  src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:contact@ikurochkin.com" target="_blank" rel="noreferrer"><img  src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
