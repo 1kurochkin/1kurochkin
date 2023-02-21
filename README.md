@@ -14,7 +14,7 @@
 class Ivan extends Developer {  
     getAbout() {
       return (
-        "React Frontend Developer with 3 years of experience in creating massive and scalable web, mobile,
+        "Full Stack Developer with 3 years of experience in creating massive and scalable web, mobile,
         and server applications adapted for clients in the Saas industry."
       );
     }
