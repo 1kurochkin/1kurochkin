@@ -14,7 +14,7 @@
 class Ivan extends Developer {  
     getAbout() {
       return (
-        "Senior React Developer with extensive experience in building web apps ( Over 10,000 users 
+        "Senior Frontend Developer with extensive experience in building web apps ( Over 10,000 users 
         around the world are using my apps this second ), expert-level in JavaScript and React, modern
         best practices and code standards, excellent teamwork skills, specializing in developing complex,
         large-scale, device-adaptive, and cross-browser web apps to achieve successful business results."
