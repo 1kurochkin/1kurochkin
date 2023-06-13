@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4E16AQHSUUM1HjHkbQ/profile-displaybackgroundimage-shrink_350_1400/0/1676997968273?e=1682553600&v=beta&t=OlX1MVCr-xXocj1inoINrz-0fFM8PTg9bu4OkHWSxoA" width="100%" />
+<img src="https://media.licdn.com/dms/image/D4E16AQHSUUM1HjHkbQ/profile-displaybackgroundimage-shrink_350_1400/0/1676997968273?e=1692230400&v=beta&t=-uvTyho8A2RO9kT_SvSkYf7yMoUHX_OqO-c-C2OA3gg" width="100%" />
 
 <div>
   <h1 align="center">Ivan Kurochkin ⚡ Senior Frontend Developer</h1>
