@@ -5,7 +5,7 @@
   <p align="center">
     <a href="https://ikurochkin.com" target="_blank" rel="noreferrer"><img  src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:contact@ikurochkin.com" target="_blank" rel="noreferrer"><img  src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/ivan-kurochkin/" target="_blank" rel="noreferrer"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/1kurochkin/" target="_blank" rel="noreferrer"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   </p>
 </div>
 
