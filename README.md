@@ -1,4 +1,5 @@
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQGZFAeMui-EIw/profile-displaybackgroundimage-shrink_350_1400/B4EZg5z1qOGwAc-/0/1753316548564?e=1756339200&v=beta&t=WRdEPGuzC3S53CdrKdFbZ5sK3ylrW9z_npUG133b0Xw" width="100%" />
+<img width="1584" height="396" alt="Copy of ivan_kurochkin_react_frontend (1)" src="https://github.com/user-attachments/assets/f4b56208-6954-42da-aa6b-f3133772f78f" />
+
 
 <div>
   <h1 align="center">Ivan Kurochkin ⚡ Senior Frontend Developer</h1>
