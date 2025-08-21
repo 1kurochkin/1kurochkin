@@ -1,4 +1,5 @@
-<img width="1584" height="396" alt="Copy of ivan_kurochkin_react_frontend (1)" src="https://github.com/user-attachments/assets/f4b56208-6954-42da-aa6b-f3133772f78f" />
+<img width="1584" height="396" alt="banner-ivan-kurochkin-react-javascript-typescript-next-node-aws-graphql-css-html" src="https://github.com/user-attachments/assets/e5d1c171-61da-40c9-a1b8-3c258a0b16f2" />
+
 
 
 <div>
