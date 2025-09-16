@@ -3,7 +3,7 @@
 
 
 <div>
-  <h1 align="center">Ivan Kurochkin ⚡ Senior Frontend Developer</h1>
+  <h1 align="center">Ivan Kurochkin ⚡ Senior Full Stack Software Engineer</h1>
   <p align="center">
     <a href="https://ikurochkin.com" target="_blank" rel="noreferrer"><img  src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:contact@ikurochkin.com" target="_blank" rel="noreferrer"><img  src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -16,10 +16,18 @@
 class Ivan extends Developer {  
     getAbout() {
       return (
-        "Senior Frontend Developer with extensive experience in building web apps ( Over 10,000 users 
-        around the world are using my apps this second ), expert-level in JavaScript and React, modern
-        best practices and code standards, excellent teamwork skills, specializing in developing complex,
-        large-scale, device-adaptive, and cross-browser web apps to achieve successful business results."
+         Delivered production code for Meta, built a Forbes-recognized app,
+         Developed fraud detection protecting ~7M healthcare visits/month across US,
+         Built full-stack SaaS fintech automation workflows for 3K+ EU businesses, and
+         Launched a cross-platform app with 10K+ installs in AppStore & GooglePlay.
+
+         Core expertise in frontend technologies: JavaScript, TypeScript, React, Next.js, GraphQL, Node.js, CSS3, HTML5. 
+         Solid experience in full-stack development:
+          - Backend (Express.js, NestJS, PostgreSQL, REST APIs)
+          - Mobile (React Native, Expo, Firebase)
+          - Cloud (AWS)
+          - CI/CD pipelines
+          - Testing (Cypress, Jest, E2E)
       );
     }
 }
